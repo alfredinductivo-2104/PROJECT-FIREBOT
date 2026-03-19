@@ -37,7 +37,11 @@ In addition to fire detection, the system is equipped with a temperature and hum
 
 ## CONNECTION DIAGRAM
 
-<img width="3000" height="2511" alt="circuit_image" src="https://github.com/user-attachments/assets/4c3ad72c-ea3f-42cb-988e-316b83681f7b" />
+<img width="700" height="700" alt="circuit_image" src="https://github.com/user-attachments/assets/4c3ad72c-ea3f-42cb-988e-316b83681f7b" />
+
+---
+
+
 
 
 
