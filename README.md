@@ -41,8 +41,19 @@ In addition to fire detection, the system is equipped with a temperature and hum
 
 ---
 
+## PROJECT PICTURES
 
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/1fe68b4a-23f3-404a-aa6b-e4ceaaff33ae" />
 
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/805217bb-c334-4325-a59e-38f1ac5c011d" />
+
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/477625b9-df6d-4bab-b35c-ba10178d838e" />
+
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/3338c27c-980f-492a-86e4-5d56823b83f9" />
+
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/aa030ab0-3df9-4f72-9270-a026258b5edc" />
+
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/87a3fcfc-bede-497a-ac75-92b0131b1fa5" />
 
 
 
