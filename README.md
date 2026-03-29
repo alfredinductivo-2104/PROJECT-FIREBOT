@@ -55,6 +55,22 @@ In addition to fire detection, the system is equipped with a temperature and hum
 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/87a3fcfc-bede-497a-ac75-92b0131b1fa5" />
 
+--- 
+
+## MOVEMENT CONTROL
+1. Connect to ESP32 Wifi 
+	- **Network Name: 	FIREBOT**
+	- **Password: 		12345678**
+2. Open Browser and Go to
+	- **Website: 		192.168.4.1**
+
+**CONTROLLER PICTURE:**
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7fb05a9c-4172-4c10-995b-ef892d29fa95" />
+
+
+---
+
 ## VIDEOS
 - MOVEMENT
 
