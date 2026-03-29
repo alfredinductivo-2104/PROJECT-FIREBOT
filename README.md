@@ -32,6 +32,7 @@ In addition to fire detection, the system is equipped with a temperature and hum
 - 12 V Battery
 - 5 V Battery (2pcs)
 - Cellphone
+- Acrylic for Casing 
 
 ---
 
