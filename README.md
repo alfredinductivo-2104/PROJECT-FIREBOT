@@ -1,4 +1,11 @@
-# PROJECT-FIREBOT: A Controlled Firefighting Robot with Temperature, and Humidity Monitoring
+<div align="center">
+
+# PROJECT FIREBOT 🔥  
+## A Controlled Firefighting Robot with Temperature and Humidity Monitoring 🚒
+
+<img width="500" height="300" alt="Picture" src="https://github.com/user-attachments/assets/adbaa2da-07a7-42e2-8293-5c7ffe7be907" />
+
+</div>
 
 ---
 
@@ -29,20 +36,29 @@ In addition to fire detection, the system is equipped with a temperature and hum
 ---
 
 ## BLOCK DIAGRAM
+<div align="center">
+	
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/34e940a2-7961-42ec-816d-d2e9e9fdf189" />
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/a955eb19-01ed-46aa-b20a-38c5ae781959" />
 
+</div>
+
 ---
 
 ## CONNECTION DIAGRAM
-
+<div align="center">
+	
 <img width="700" height="700" alt="circuit_image" src="https://github.com/user-attachments/assets/4c3ad72c-ea3f-42cb-988e-316b83681f7b" />
+
+</div>
 
 ---
 
 ## PROJECT PICTURES
 
+<div align="center">
+	
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/1fe68b4a-23f3-404a-aa6b-e4ceaaff33ae" />
 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/805217bb-c334-4325-a59e-38f1ac5c011d" />
@@ -55,9 +71,11 @@ In addition to fire detection, the system is equipped with a temperature and hum
 
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/87a3fcfc-bede-497a-ac75-92b0131b1fa5" />
 
+</div>
+
 --- 
 
-## MOVEMENT CONTROL
+## MOVEMENT CONTROLLER
 1. Connect to ESP32 Wifi 
 	- **Network Name: 	FIREBOT**
 	- **Password: 		12345678**
@@ -65,22 +83,26 @@ In addition to fire detection, the system is equipped with a temperature and hum
 	- **Website: 		192.168.4.1**
 
 **CONTROLLER PICTURE:**
-
+<div align="center">
+	
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7fb05a9c-4172-4c10-995b-ef892d29fa95" />
 
+</div>
 
 ---
 
 ## VIDEOS
-- MOVEMENT
+- **MOVEMENT**
 
 https://github.com/user-attachments/assets/8194be67-3c6e-4c76-a87a-961bc244ed4b
 
 https://github.com/user-attachments/assets/c2fb8697-aebc-4eff-8482-df810871ee93
 
-- FIRE FIGHTING FEATURE
+
+- **FIRE FIGHTING** 
 
 https://github.com/user-attachments/assets/d44885a4-c7e5-4a9d-b6c0-ff6c7d5235ee
+
 
 
 
