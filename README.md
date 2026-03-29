@@ -83,7 +83,7 @@ In addition to fire detection, the system is equipped with a temperature and hum
 2. Open Browser and Go to
 	- **Website: 		192.168.4.1**
 
-**CONTROLLER PICTURE:**
+## CONTROLLER PICTURE
 <div align="center">
 	
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7fb05a9c-4172-4c10-995b-ef892d29fa95" />
