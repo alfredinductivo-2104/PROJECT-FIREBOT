@@ -94,11 +94,13 @@ In addition to fire detection, the system is equipped with a temperature and hum
 
 ## VIDEO TESTING
 - **MOVEMENT**
-
+<div align="center">
+	
 https://github.com/user-attachments/assets/8194be67-3c6e-4c76-a87a-961bc244ed4b
 
 https://github.com/user-attachments/assets/c2fb8697-aebc-4eff-8482-df810871ee93
 
+</div>
 
 - **FIRE FIGHTING** 
 <div align="center">
